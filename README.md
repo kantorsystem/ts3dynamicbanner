@@ -15,7 +15,7 @@ Csatlakozz fel a szerverre, majd jobb klikk a szerver nevére és a Host Banner 
 A Gfx Intervallumot 60-ra állítsuk. Resize-t állítsuk "Adjust and keep aspect ratio", vagy arra ami nekünk optimális. Majd Apply és Ok.
 Használd :)
 
-Példa, hogy nézz ki: http://kantorsystem.hu/banner/
+Példa, hogy nézz ki: https://kantorsystem.hu/banner/
 
 ## TS3 Dynamic Banner with dynamic months.
 
@@ -34,4 +34,4 @@ Connect to your server, and then right click to servername. In the Host Banner s
 Resize set to "Adjust and keep aspect ratio", or set which is good. Then Apply and OK.
 Enjoy :).
 
-Example how is like look: http://kantorsystem.hu/banner/
+Example how is like look: https://kantorsystem.hu/banner/
